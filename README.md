@@ -3,7 +3,7 @@
 <h3 align="Centre"> A passionate software engineer student ect... 👌</h3>
 
 - :mechanical_arm: I'm currently working on [Week Ninee Package](https://github.com/Ajani-Marvellous/Cs121-Java-/tree/master/src/weekNine)
-- :peace_symbol: (This is one of my project](https://github.com/Ajani-Marvellous/Cs121-Java-/tree/master/src/ProjectThree)
+- :peace_symbol: [This is one of my project](https://github.com/Ajani-Marvellous/Cs121-Java-/tree/master/src/ProjectThree)
 
 
 
